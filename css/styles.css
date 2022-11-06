@@ -1,0 +1,84 @@
+
+*{
+    margin: 0;
+}
+
+#nav-it-1 {
+    color: #96c93e;
+}
+
+#menu {
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: #353a40;
+}
+
+#azul {
+    background-image: linear-gradient(to right, #1d3744 , #1d5271);
+    color:white;
+    padding-top: 20px; padding-bottom: 20px;
+}
+
+#f1:hover {
+    color:#96c93e;
+}
+#f2:hover {
+    color: #96c93e;
+}
+#f3:hover {
+    color:#96c93e;
+}
+#f4:hover {
+    color:#96c93e;
+}
+#f5:hover {
+    color:#96c93e;
+}
+#f6:hover {
+    color:#96c93e;
+}
+#f7:hover {
+    color:#96c93e;
+}
+
+#formulario {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 2%;
+}
+
+#cardEst {
+    border-color:dodgerblue;
+}
+
+#cardTra {
+    border-color:lightseagreen
+}
+
+#cardJun {
+    border-color:goldenrod;
+}
+
+#vticket {
+    font-size: 240%;
+
+}
+#borrarb {
+    background-color:#96c93e;
+    color:aliceblue;
+    width: 49%;
+}
+#borrarb:hover {
+    background-color:#14B263;
+}
+
+#resumenb {
+    background-color:#96c93e;
+    color:aliceblue;
+    width: 49%;
+
+}
+
+#resumenb:hover {
+    background-color: #14B263;
+}
